@@ -1,0 +1,5 @@
+numpy
+matplotlib
+
+# If you want interactive graphics (optional):
+# pygame
