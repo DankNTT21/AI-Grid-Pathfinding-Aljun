@@ -10,7 +10,7 @@
 
     ## Goal 
     - Imagine a map made of squares. Some squares are blocked (like walls). I want a robot to walk from my home (start) to the candy shop (goal) the fastest way.
-    - A* is a smart way to choose which squares to check so the robot doesn't wander around—it's like following a trail that looks promising.
+    - A* is a smart way to choose which squares to check so the robot doesn't wander around. It's like following a trail that looks promising.
 
     ## What we provide here
     - `astar.py` — the algorithm implementation.
